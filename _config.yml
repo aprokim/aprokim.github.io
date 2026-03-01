@@ -20,7 +20,7 @@ rtl                      : # true, false (default) # turns direction of the page
 title                    : "러닝데이터랩"
 title_separator          : "-"
 subtitle                 : "러닝마라톤분석아카이브"
-name                     : "펀런"
+name                     : "AproKim"
 description              : "러닝 마라톤 스마트 라이프 공유"
 url                      : "https://aprokim.github.io"
 baseurl                  : ""
@@ -113,10 +113,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "AproKim"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  bio              : "love/build/run."
+  location         : "github"
   email            :
   links:
     - label: "Email"
