@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "마라톤 지역별 코스분석과 레이스 운영법"
 date: 2026-03-02 11:00:00 +0900
 description: "마라톤 지역별 수도권, 남부권 분석 최적의 코스 선택법."
