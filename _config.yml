@@ -17,9 +17,9 @@ minimal_mistakes_skin    : "default"
 # Site Settings
 locale                   : "ko-KR"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
-title                    : "러닝데이터랩"
+title                    : "러닝-마라톤Lab"
 title_separator          : "-"
-subtitle                 : "러닝마라톤분석아카이브"
+subtitle                 : "러닝-마라톤 Data Archive"
 name                     : "AproKim"
 description              : "러닝 마라톤 스마트 라이프 공유"
 url                      : "https://aprokim.github.io"
